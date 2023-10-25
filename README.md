@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iwantlogic
-- 👀 I’m interested in assembly amd computer arcithecture
+- 👀 I’m interested in assembly and computer arcithecture
 - 🌱 I’m currently learning assembly
 - 💞️ I’m looking to collaborate on (NULL)
   
