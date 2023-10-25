@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iwantlogic
-- 👀 I’m interested in ethical hacking and pentesting
-- 🌱 I’m currently learning ethical hacking
+- 👀 I’m interested in assembly amd computer arcithecture
+- 🌱 I’m currently learning assembly
 - 💞️ I’m looking to collaborate on (NULL)
   
 
