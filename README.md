@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @iwantlogic
-- 👀 I’m interested in assembly and computer arcithecture
-- 🌱 I’m currently learning assembly
+# 👋 Hi, I’m @iwantlogic
+- 👀 I’m interested in emulation and networking
+- 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on (NULL)
   
 
